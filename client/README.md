@@ -16,7 +16,10 @@
  DELETE /api/users/:id : REMOVE A USER BY ID 
 
  3- GET ALL USERS , Display 
+ 
  4- DELETE USER 
+ 
  5-ADD A USER (install react-modal)
+ 
  6-EDIT USER   
  
